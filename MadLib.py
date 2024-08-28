@@ -6,7 +6,11 @@
 def main():
   print("Madlib")
   #Ask user for words
-
+  noun1 = input("Enter a noun: ")
+  noun2 = input("Enter a noun: ")
+  noun3 = input("Enter a noun: ")
+  name1 = input("Enter a name: ")
+  verb1 = input("Enter a verb: ")
   #Print the story with the user supplied words.
 
 
